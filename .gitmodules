@@ -1,0 +1,7 @@
+
+[submodule "api"]
+	path = api
+	url = https://github.com/Veliarian/money-management-api.git
+[submodule "client"]
+	path = client
+	url = https://github.com/Veliarian/money-management-client.git
